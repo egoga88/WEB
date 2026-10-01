@@ -8,8 +8,7 @@ body,
     display: flex;
     width: 700px;
     height: 300px;
-    gap: 50px;
-    
+    gap: 50px;   
 }
 .flex-container div{
     width: 100px;
@@ -31,4 +30,3 @@ body,
 .flex-container div:last-child{
     margin-left: auto;
 }
- 
